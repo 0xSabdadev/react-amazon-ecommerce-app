@@ -1,11 +1,12 @@
-import "./App.css";
+import './App.css'
+import Header from './components/header/Header'
 
 function App() {
-  return (
-    <div className="App">
-      <span>Subscribe Zainkeepscode</span>
-    </div>
-  );
+    return (
+        <div className='App'>
+            <Header />
+        </div>
+    )
 }
 
-export default App;
+export default App
