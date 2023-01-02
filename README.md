@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # react-amazon-ecommerce-app
 Build a DeFi Product website in React JS <br/>
 
-<img src='#'>
+<img src='https://github.com/0xSabdadev/react-amazon-ecommerce-app/blob/master/src/assets/ptcor.png'>
 
 ## Available Scripts
 
