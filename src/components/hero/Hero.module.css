@@ -73,6 +73,11 @@
     cursor: pointer;
 }
 
+.signup>:nth-child(2):hover {
+    background: skyblue;
+    color: white;
+}
+
 .h_sides {
     display: grid;
     grid-template-rows: 1fr 1fr;
